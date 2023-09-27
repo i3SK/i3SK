@@ -1,7 +1,7 @@
 <h1>Bartolomé De la Cueva</h1>
 
-<h2>Hi! You can call me Bart. i'm a 36 years old Software Developer.</h2>
-<h3>There's a bunch of stuff I can do with the right tools.</h3>
+<h2>Hi! You can call me <b></b>Bart</b>. I'm a 36 years old <b></b>Software Developer</b> from <b></b>Barcelona</b>.</h2>
+<h3>There's a bunch of stuff I can do with the right <b>tools</b>.</h3>
 
 <hr>
 
@@ -9,5 +9,7 @@
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)<hr>
 
-<h4>Feel free to reach me at social media</h4>
+<h4>Feel free to reach me on <b>social media</b>.</h4>
+
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
  
