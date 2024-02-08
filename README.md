@@ -1,6 +1,6 @@
 <h1>Bartolomé De la Cueva</h1>
 
-<h2>Hi! You can call me <b>Bart</b>. I'm a 36 years old <b>Software Developer</b> from <b>Barcelona</b>.</h2>
+<h2>Hi! You can call me <b>Bart</b>. I'm a <b>Software Developer</b> from <b>Barcelona</b>.</h2>
 <h3>There's a bunch of stuff I can do with the right <b>tools</b>.</h3>
 
 <hr>
